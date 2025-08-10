@@ -6,3 +6,6 @@
   
  ## Dataset
  This data set contains data about patient vitals and heart disease (ifany) of the same.
+
+## Algorithm used
+Logistic Regression
